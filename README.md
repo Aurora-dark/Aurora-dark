@@ -1,4 +1,4 @@
-## Hi there 👋
+## aurora is the hope butdarkness is always the main
 
 <!--
 **Aurora-dark/Aurora-dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
